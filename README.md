@@ -1,5 +1,5 @@
 # What is this #
-This collection of java files is a text based Black Jack game created for my final project in CS 112.
+This collection of java files is a text based Black Jack game created for the CS 112 final project.
 
 # Running the game #
 ## Pull ##
